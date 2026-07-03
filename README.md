@@ -11,15 +11,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="cs-logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust"  />
     <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="rust-logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python"  />
     <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="py-logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode"  />
     <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="py-logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git"  />
     <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="py-logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp"  />
+
+  <h5>High use ------------------------------------------> Low use </h1>
 </div>
 
 
