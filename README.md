@@ -20,9 +20,10 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git"  />
     <img width="20" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp"  />
-
-  <h5>High use ------------------------------------------> Low use </h1>
 </div>
 
+###
 
-// RubRub
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maslina524&layout=compact&card_width=800&theme=github_dark" height="150" alt="top-langs"  />
+</div>
