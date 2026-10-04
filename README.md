@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  I'm a programmer from Russia. I started coding at 13 and have always focused on backend development, primarily in Rust, though I also work with C# and Python. My dream is to create a programming language for Geometry Dash, and right now I'm actively working to
-  
-  **Make Geometry Dash Great Again.**
+  I started writing code at 13, and it's been a constant part of my life since. Right now I'm actively learning Rust for backend development and CLI tooling, and I'm training in building high-load systems — learning how to keep things fast and reliable under pressure.
 </div>
 
 ###
